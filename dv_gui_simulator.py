@@ -12,7 +12,7 @@ class DistanceVectorGUI:
         self.root.geometry("1200x750")
         self.root.configure(bg="#11111b")
 
-        # Network State
+        #Network State
         self.nodes = {
             'A': [180, 220],
             'B': [420, 120],
